@@ -1,5 +1,24 @@
-# evolve_daily_challenges
+# Evolve Daily Challenges
 Simple Daily Day to Day Coding Challenges
+
+## Day 1: Create a Github Account
+
+- Create a Github Account
+- Learn Basics of Github
+- Create a Repo Daily Challenges , this is where you will be uploading your challenges
+
+## Day 2 Challenge: Printing self introduction
+
+Your task is to write a program in the programming language of your choice that prints your self introduction to the console.
+
+Steps:
+    Write a program that prints self introduction to the console.
+    Run the program to ensure it works.
+
+    Upload your code to a new GitHub repository.
+    Share the link to your repository and your output.(screenshot)
+
+Good luck with your challenge!
 
 ## Day 3 Challenge: Variables and Data Types
 
