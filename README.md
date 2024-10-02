@@ -32,18 +32,6 @@ Task:
         One that is either true or false (boolean)
     Print each variable along with its value.
 
-Example (in Python):
-
-age = 20  # Integer
-height = 5.9  # Float
-name = "John"  # String
-is_student = True  # Boolean
-
-print(age)
-print(height)
-print(name)
-print(is_student)
-
 ## Day 4 Challenge: Basic Operators
 
 Today, you'll work with basic operators to perform simple calculations.
@@ -57,22 +45,7 @@ Task:
             Subtraction
             Multiplication
             Division
-
-Example (in Python):
-
-num1 = float(input("Enter the first number: "))
-num2 = float(input("Enter the second number: "))
-
-add = num1 + num2
-sub = num1 - num2
-mul = num1 * num2
-div = num1 / num2
-
-print(f"The result of addition is: {add}")
-print(f"The result of subtraction is: {sub}")
-print(f"The result of multiplication is: {mul}")
-print(f"The result of division is: {div}")
-
+            
 ## Day 5 Challenge: Conditional Statements
 
 Today, you'll learn how to make decisions in your program using conditional statements.
@@ -93,14 +66,48 @@ Task:
     Write a program that:
         Asks the user to enter a number.
         Uses a while loop to print all the numbers from 1 to the user's number.
+        Upload your code to your GitHub repository.
 
-Example (in Python):
+## Day 7 Challenge: Loops (For Loop)
 
-num = int(input("Enter a number: "))
-i = 1
+Today, you'll learn how to use a for loop to iterate over a sequence.
 
-while i <= num:
-    print(i)
-    i += 1
+Task:
 
-Upload your code to your GitHub repository.
+    Write a program that:
+        Asks the user to enter a word.
+        Uses a for loop to print each letter of the word on a new line.
+
+## Day 8 Challenge: Basic Functions
+
+Today, you'll learn how to create and use functions to make your code more modular and reusable.
+
+Task:
+
+    Write a program that:
+        Defines a function called greet that takes a person's name as a parameter.
+        Inside the function, print: "Hello, <name>!"
+        Call the function with your name.
+
+## Day 9 Challenge: Lists/Arrays (Part 1)
+
+Today, you'll learn about lists/arrays and how to work with multiple items.
+
+Task:
+
+    Write a program that:
+        Creates a list/array of 5 numbers.
+        Prints each number in the list/array.
+        Asks the user to add a new number to the list/array and prints the updated list.
+
+## Day 10 Challenge: Lists/Arrays (Part 2)
+
+Today, you’ll explore common operations on lists/arrays like sorting and slicing.
+
+Task:
+
+    Write a program that:
+        Creates a list/array of 6 numbers.
+        Prints the list.
+        Sorts the list in ascending order and prints the sorted list.
+        Prints only the first 3 elements.
